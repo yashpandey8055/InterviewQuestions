@@ -1,0 +1,63 @@
+1. Stringbuilder, Stringbuffer and String joiner?
+2. String intern?
+3. Dynamic method dispatch?
+4. Why static methods cannot be overwritten?
+5. Dynamic and Static binding in java?
+6. L1 and L2 compiler ?
+7. AOT vs JIT ?
+8. Spring security flow?
+9. JWT structure?
+10. BEan Factory vs application context?
+11. Inheritence vs composition?
+12. Controller vs RestController?
+13. MVC flow?
+14. Deep and shallow copying? DEsign pattern which uses it?
+15. Fluent Builder inheritence?
+16. IDempotent ? Is delete always idempotent?
+17. HEAD VS Option?
+18. Define diamond problem?
+19. Adder vs Accumulator?
+20. Comparator vs Comparable?
+21. forEach vs forEachOrdered?
+22. How to mock Rowmapper or REsultSetExtractor ?
+23. HATEOS?
+24. Rest PRinciples?
+25. Why Child c = new Parent() not allowed?
+26. DataDog vs App dynamicS?
+27. In Multithreaded env, how to check if map contains a key and enter?
+28. MArker Interface?
+29. ClassNotFOundException vs NoClassDefError?
+30. Exclude tomcat dependency in springboot?
+31. LogAggregator in cloud system?
+32. Cohesion vs coupling
+33. Map vs flatmap?
+34. Load factor
+35. Internal working of hashmap
+36. ViewChild vs vewChildren
+37. Promise vs Observable
+38. Webclient vs restTemplate
+39. need of static and default method in java 8
+40. Why method in class overrides default impl of interface?
+41. Mono in reactive programming
+42. @args in aop
+43. AspectJ vs aop
+44. Linkedlist vs arraylist
+45. transient keyword
+46. SQl to find 2nd maximum salary
+47. Deploy an app to cloud using PCF/Cloud u used
+48. Liquibase vs schema & data.sql
+49. ingress do in aks
+50. Deploy 2 springboot app as one
+51. Service Mesh
+52. @profile
+53 Application gateway
+54. Service Registry
+55. Need for containerization?
+56. Need of kubernetes even after containerization
+57. Dependency Inversion vs Injection
+58. Interface vs abstract class?
+59. Need for Functional programming in java?
+60. Optional?
+61. OrElse orOrElseGEt
+JAva pgm -
+Fibonacci series and Java pgm -count of each char in given string, 
