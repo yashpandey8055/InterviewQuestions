@@ -1,0 +1,5 @@
+bin/
+Examples/.project
+Examples/.classpath
+Examples/bin/
+Examples/bin/*
