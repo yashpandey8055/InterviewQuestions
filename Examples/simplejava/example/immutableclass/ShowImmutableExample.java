@@ -5,8 +5,24 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
+
 public class ShowImmutableExample {
 
+	public class Calculator{
+		  private ImmutablePerson currentValue = null;
+
+		  public ImmutablePerson getValue(){
+		    return currentValue;
+		  }
+
+		  public void setValue(ImmutablePerson newValue){
+		    this.currentValue = newValue;
+		  }
+
+		  public void add(int newValue){
+		    this.currentValue = new ImmutablePerson(null, null, null, null);
+		  }
+		}
 
 	/**
 	 * In this Method we take a Immutable object and try to change its data 
